@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwalmittal03" alt="ujjwalmittal03" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack , Flutter**
+- 🌱 I’m currently learning ** C# , Flutter**
 
 - 💬 Ask me about **HTML CSS JS Nodejs Express Flutter Dart Firebase C#**
 
