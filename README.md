@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full stack , Flutter**
 
-- 💬 Ask me about **HTML CSS JS Nodejs Express Flutter Dart Firebase**
+- 💬 Ask me about **HTML CSS JS Nodejs Express Flutter Dart Firebase C#**
 
 - 📫 How to reach me **ujjwalmittal1033@gmail.com**
 
